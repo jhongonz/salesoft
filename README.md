@@ -33,7 +33,7 @@ The configuration files to consider are the following :
 ## About Access Demo
 	
 	- user : jhonny
-	-password : 1234567
+	- password : 1234567
 
 <!-- <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
